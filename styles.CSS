@@ -16,3 +16,14 @@
 /*float: left;*/   
     position :relative;
  }
+ 
+ #p1{
+    background-color: cyan;
+ }
+
+ .odd{
+    background-color: antiquewhite;
+ }
+ .even{
+    background-color: azure;
+ }
