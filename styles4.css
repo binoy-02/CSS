@@ -1,0 +1,18 @@
+h1{
+    background: linear-gradient(to right,skyblue,green);
+
+}
+p{
+    background: linear-gradient(to left,rgb(210, 211, 218),rgb(139, 120, 120));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: 50px;
+}
+body{
+    background-image: url(treebackground.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center ;
+    background-size: cover;
+
+}

@@ -1,0 +1,22 @@
+h1{
+
+    border-left-style: dashed;
+    border-right-style: dotted;
+    border: 5px;
+    border-left-color: aquamarine;
+    border-left-color: rgb(197, 40, 42);
+    border-top-style: groove;
+    border-style: outset;
+    border-top-color: blue;
+    border-top-style: inset;
+    border-bottom-style: outset;
+    border-bottom-color: brown;
+}
+p{
+    border-style: double;
+    border-width: 2px;
+    border-color: gold;
+    border-radius: 10px;
+    padding: 5px;
+}
+
