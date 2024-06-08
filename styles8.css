@@ -1,0 +1,38 @@
+a:link{
+    color: aqua;
+}
+
+a:hover{
+    color: rgb(76, 219, 76);
+}
+
+a:active{
+    color:rgb(129, 129, 31)
+}
+
+body{
+    font-size: 50px;
+}
+button:hover{
+    background-color: rgb(171, 160, 160);
+}
+button:active{
+    background-color: white;c
+}
+
+/* li:nth-child(1){
+    background-color: yellow;
+} */
+
+/* li:nth-child(even){
+    background-color: aqua;
+} */
+
+/* li:nth-child(odd){
+    background-color: powderblue;
+} */
+
+li:nth-child(3n+1){
+    background-color: yellow;
+}
+
